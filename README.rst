@@ -4,7 +4,7 @@ toga-cassowary
 A helper layer for the `Toga widget toolkit`_ assisting backends that require
 an implementation of the `Cassowary constraint solving algorithm`_.
 
-This package isn't much use by itself; it needs to be combined with `toga-core`_.
+This package isn't much use by itself; it needs to be combined with `the core Toga library`_.
 
 For more details, see the `Toga project on Github`_.
 
@@ -27,8 +27,8 @@ want to contribute code, please `fork the code`_ and `submit a pull request`_.
 
 .. _Toga widget toolkit: http://pybee.org/toga
 .. _Cassowary constraint solving algorithm: http://pybee.org/cassowary
+.. _the core Toga library: https://github.com/pybee/toga
 .. _Toga project on Github: https://github.com/pybee/toga
-.. _toga-core: https://github.com/pybee/toga-core
 .. _BeeWare suite: http://pybee.org
 .. _@pybeeware on Twitter: https://twitter.com/pybeeware
 .. _BeeWare Users Mailing list: https://groups.google.com/forum/#!forum/beeware-users
